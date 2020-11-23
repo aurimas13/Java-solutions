@@ -1,4 +1,4 @@
-package com.in28minutes.firstjavaproject;
+package com.in28minutes.firstjavaproject; // Familairity with public static in Java
 
 public class KeyboardShortcuts {
 
