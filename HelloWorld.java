@@ -1,4 +1,4 @@
-package com.in28minutes.firstjavaproject;
+package com.in28minutes.firstjavaproject; // Hello world solution in Java
 
 public class HelloWorld {
 
