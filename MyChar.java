@@ -1,4 +1,4 @@
-package com.in28minutes.oops;
+package com.in28minutes.oops; // OOP and data types problem	
 
 public class MyChar {
 
