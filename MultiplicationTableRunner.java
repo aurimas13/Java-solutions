@@ -1,4 +1,4 @@
-package com.in28minutes.firstjavaproject;
+package com.in28minutes.firstjavaproject; // Multiplication Table problem with values. This gives output.
 
 public class MultiplicationTableRunner {
 
