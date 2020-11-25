@@ -1,4 +1,4 @@
-package com.in28minutes.oops; // Solution of Object-Oriented Programming and BigDecimal problem
+package aurimas.oops; // Solution of Object-Oriented Programming and BigDecimal problem
 
 import java.math.BigDecimal;
 
