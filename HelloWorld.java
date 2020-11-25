@@ -1,4 +1,4 @@
-package com.in28minutes.firstjavaproject; // Hello world solution in Java
+package aurimas.firstjavaproject; // Hello world solution in Java
 
 public class HelloWorld {
 
