@@ -1,4 +1,4 @@
-package aurimas.oops; // Solution of Object-Oriented Programming problem 
+package aurima.oops; // Solution of Object-Oriented Programming problem 
 
 public class BiNumberRunner {
 
