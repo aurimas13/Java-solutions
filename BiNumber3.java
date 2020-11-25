@@ -1,4 +1,4 @@
-package com.in28minutes.oops;
+package aurimas.oops;
 
 public class BiNumber3 {
 	private int number3;
