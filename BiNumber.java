@@ -1,4 +1,4 @@
-package com.in28minutes.oops; // Solution of Object-Oriented Programming problem 
+package aurimas.oops; // Solution of Object-Oriented Programming problem 
 
 public class BiNumber {
 
