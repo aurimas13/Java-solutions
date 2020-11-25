@@ -1,4 +1,4 @@
-package aurimas.oops; // Solution of Object-Oriented Programming and BigDecimal problem 
+package aurias.oops; // Solution of Object-Oriented Programming and BigDecimal problem 
 
 import java.math.BigDecimal;
 
