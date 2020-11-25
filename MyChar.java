@@ -1,4 +1,4 @@
-package com.in28minutes.oops; // OOP and data types problem	
+package aurimas.oops; // OOP and data types problem	
 
 public class MyChar {
 
