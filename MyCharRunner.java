@@ -1,4 +1,4 @@
-package com.in28minutes.oops; // OOP problem and thsi file calls the functions from MyChar.java and runs them
+package aurimas.oops; // OOP problem and thsi file calls the functions from MyChar.java and runs them
 
 public class MyCharRunner {
 
