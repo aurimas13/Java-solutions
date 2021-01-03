@@ -1,30 +1,26 @@
-package aurimas.oops; // Solution of Object-Oriented Programming problem 
+package aurimas.oops.level2;
+
+import java.util.ArrayList;
 
 public class Book {
-	// instance variable noOfCopies
-	private int noOfCopies; // member variable
+	private int id;
+	private String name;
+	private String author;
+	private ArrayList<Review> reviews = new ArrayList<>();
 
-	public Book(int noOfCopies) {
-		this.noOfCopies = noOfCopies;
+	public Book(int id, String name, String author) {
+		this.id = id;
+		this.name = name;
+		this.author = author;
 	}
 
-	public int getNoOfCopies() {
-		return noOfCopies;
+	public void addReview(Review review) {
+		this.reviews.add(review);
 	}
 
-	public void setNoOfCopies(int noOfCopies) {
-		if (noOfCopies > 0) {
-			this.noOfCopies = noOfCopies;
-			System.out.println(noOfCopies);
-		}
-
+	@Override
+	public String toString() {
+		return String.format("id - %d, name - %s, author - %s, reviews = %s", id, name, author, reviews);
 	}
 
-	public void increaseNoOfCopies(int howMany) {
-		setNoOfCopies(this.noOfCopies + howMany);
-	}
-
-	public void decreaseNoOfCopies(int howMany) {
-		setNoOfCopies(this.noOfCopies - howMany);
-	}
 }
