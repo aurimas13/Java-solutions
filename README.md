@@ -1,6 +1,6 @@
 # Solutions to Java problems#
 
-<br> Existing solutions involve problems from a [Java beginner course](https://www.udemy.com/course/csharp-tutorial-for-beginners/). </br>
+<br> Existing solutions involve problems from a [Java beginner course ](https://www.udemy.com/course/csharp-tutorial-for-beginners/). </br>
 <br> Java files (.java) that were run - are the ones with 'Runner' in the file name. Without this name it is a class. </br>
 <br> The comments of what has been done are provided under the respective Java file. </br>
 
