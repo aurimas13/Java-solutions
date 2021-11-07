@@ -1,5 +1,9 @@
-package aurimas.firstjavaproject; // Multiplication Table problem with values. This gives output.
+// Created by Aurimas A. Nausedas on 18/11/20.
+// Updated by Aurimas A. Nausedas on 07/11/21.
+//
+// Multiplication Table problem with values. This gives output.
 
+package aurimas.firstjavaproject; 
 public class MultiplicationTableRunner {
 
 	public static void main(String[] args) {
