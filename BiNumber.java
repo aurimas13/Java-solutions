@@ -1,3 +1,7 @@
+// Created by Aurimas A. Nausedas on 13/10/20.
+// Updated by Aurimas A. Nausedas on 07/11/21.
+//
+
 package aurimas.oops; // Solution of Object-Oriented Programming problem 
 
 public class BiNumber {
