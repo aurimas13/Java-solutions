@@ -1,4 +1,9 @@
-package aurimas.oops; // OOP problem and thsi file calls the functions from MyChar.java and runs them
+// OOP problem and thsi file calls the functions from MyChar.java and runs them
+//
+// Created by Aurimas A. Nausedas on 20/11/20.
+// Updated by Aurimas A. Nausedas on 07/11/21.
+
+package aurimas.oops; 
 
 public class MyCharRunner {
 
