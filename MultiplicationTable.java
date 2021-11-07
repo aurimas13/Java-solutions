@@ -1,7 +1,7 @@
+// Multiplication Table Problem 
+//
 // Created by Aurimas A. Nausedas on 18/11/20.
 // Updated by Aurimas A. Nausedas on 07/11/21.
-//
-// Multiplication Table Problem 
 
 package aurimas.firstjavaproject;
 
