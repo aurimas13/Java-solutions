@@ -1,7 +1,7 @@
+// Solution of Object-Oriented Programming problem
+//
 // Created by Aurimas A. Nausedas on 16/11/20.
 // Updated by Aurimas A. Nausedas on 07/11/21.
-//
-// Solution of Object-Oriented Programming problem
 
 package aurimas.oops; 
 public class MotorBike {
