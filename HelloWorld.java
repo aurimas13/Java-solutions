@@ -1,4 +1,9 @@
-package aurimas.firstjavaproject; // Hello world solution in Java
+// Created by Aurimas A. Nausedas on 01/11/20.
+// Updated by Aurimas A. Nausedas on 07/11/21.
+//
+// Hello world solution in Java
+
+package aurimas.firstjavaproject; 
 
 public class HelloWorld {
 
