@@ -1,4 +1,9 @@
-package aurimas.oops; // OOP and data types problem	
+// OOP and data types problem	
+//
+// Created by Aurimas A. Nausedas on 20/11/20.
+// Updated by Aurimas A. Nausedas on 07/11/21.
+
+package aurimas.oops; 
 
 public class MyChar {
 
