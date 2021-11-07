@@ -1,4 +1,9 @@
-package aurimas.oops; // Solution of Object-Oriented Programming problem 
+// Created by Aurimas A. Nausedas on 13/11/21.
+// Updated by Aurimas A. Nausedas on 07/11/21.
+//
+// Solution of Object-Oriented Programming problem 
+
+package aurimas.oops; 
 
 public class BiNumberRunner {
 
