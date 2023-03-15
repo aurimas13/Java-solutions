@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="300px" src="https://github.com/aurimas13/Java-solutions/blob/main/public/images/java-logo.png"/>
+  <img height="450px" src="https://github.com/aurimas13/Java-solutions/blob/main/public/images/java-logo.png"/>
 </p>
 
 <p align="center" > <b>Solutions to Java problems </b> </p>
